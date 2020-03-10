@@ -19,3 +19,5 @@ https://github.com/dr-matt-smith/php-symfony-5-book-codes
 - https://github.com/dr-matt-smith/php-symfony-5-book-codes-form-queries-01-products
 
 - https://github.com/dr-matt-smith/php-symfony-5-book-codes-form-queries-02-category-form
+
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-form-queries-03-wildcard-search
