@@ -21,3 +21,7 @@ https://github.com/dr-matt-smith/php-symfony-5-book-codes
 - https://github.com/dr-matt-smith/php-symfony-5-book-codes-form-queries-02-category-form
 
 - https://github.com/dr-matt-smith/php-symfony-5-book-codes-form-queries-03-wildcard-search
+
+- case study - chess games / dates / sessions / comments where logged-in user is author:
+
+  - https://github.com/dr-matt-smith/symfony5-chess-date-status
